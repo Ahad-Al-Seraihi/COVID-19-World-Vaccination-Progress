@@ -1,10 +1,10 @@
 # COVID-19-World-Vaccination-Progress
 
-# About
+## About
 
 I performed basic exploratory data analysis (EDA) using Pandas, NumPy and Matplotlib libraries on a Kaggle dataset looking at COVID-19 world vaccination progress in the period (12/2020 - 04/2021). This included data cleaning, wrangling and visualization to answer some hypotheses based on data.
 
-# Install
+##  Install
 
 This project required Python 3.x and the following Python libraries installed:
 
@@ -12,7 +12,7 @@ This project required Python 3.x and the following Python libraries installed:
 - NumPy
 - Matplotlib
 
-# Data Dictionary 
+##  Data Dictionary 
 
 The dictionary from this dataset (country_vaccinations.csv) was obtained from:
 https://www.kaggle.com/gpreda/covid-world-vaccination-progress
