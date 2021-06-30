@@ -1,4 +1,4 @@
-# COVID-19-World-Vaccination-Progress
+# Capstone Project: COVID-19 World Vaccination Progress
 
 ## About
 
